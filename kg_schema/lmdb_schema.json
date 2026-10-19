@@ -1,0 +1,736 @@
+{
+  "kg": "lmdb",
+  "source": "LMDB/LMDB/linkedmdb-latest-dump.nt",
+  "classes": [
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/actor",
+      "label": "actor",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/cinematographer",
+      "label": "cinematographer",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/content_rating",
+      "label": "content_rating",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/content_rating_system",
+      "label": "content_rating_system",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/country",
+      "label": "country",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/director",
+      "label": "director",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/dubbing_performance",
+      "label": "dubbing_performance",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/editor",
+      "label": "editor",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film",
+      "label": "film",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_art_director",
+      "label": "film_art_director",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_awards_ceremony",
+      "label": "film_awards_ceremony",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_casting_director",
+      "label": "film_casting_director",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_character",
+      "label": "film_character",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_collection",
+      "label": "film_collection",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_company",
+      "label": "film_company",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_costume_designer",
+      "label": "film_costume_designer",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_crew_gig",
+      "label": "film_crew_gig",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_crewmember",
+      "label": "film_crewmember",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_critic",
+      "label": "film_critic",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_cut",
+      "label": "film_cut",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_distribution_medium",
+      "label": "film_distribution_medium",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_distributor",
+      "label": "film_distributor",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_featured_song",
+      "label": "film_featured_song",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_festival",
+      "label": "film_festival",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_festival_event",
+      "label": "film_festival_event",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_festival_focus",
+      "label": "film_festival_focus",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_festival_sponsor",
+      "label": "film_festival_sponsor",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_film_company_relationship",
+      "label": "film_film_company_relationship",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_film_distributor_relationship",
+      "label": "film_film_distributor_relationship",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_format",
+      "label": "film_format",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_genre",
+      "label": "film_genre",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_job",
+      "label": "film_job",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_location",
+      "label": "film_location",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_production_designer",
+      "label": "film_production_designer",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_regional_release_date",
+      "label": "film_regional_release_date",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_screening_venue",
+      "label": "film_screening_venue",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_series",
+      "label": "film_series",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_set_designer",
+      "label": "film_set_designer",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_story_contributor",
+      "label": "film_story_contributor",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_subject",
+      "label": "film_subject",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_theorist",
+      "label": "film_theorist",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/music_contributor",
+      "label": "music_contributor",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/performance",
+      "label": "performance",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/personal_film_appearance",
+      "label": "personal_film_appearance",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/personal_film_appearance_type",
+      "label": "personal_film_appearance_type",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/producer",
+      "label": "producer",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/production_company",
+      "label": "production_company",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/special_film_performance_type",
+      "label": "special_film_performance_type",
+      "subClassOf": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/writer",
+      "label": "writer",
+      "subClassOf": null
+    }
+  ],
+  "properties": [
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/actor",
+      "label": "actor",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/cinematographer",
+      "label": "cinematographer",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/content_rating_system",
+      "label": "content_rating_system",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/costume_designer",
+      "label": "costume_designer",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/country",
+      "label": "country",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/director",
+      "label": "director",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/dubbing_performance",
+      "label": "dubbing_performance",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/editor",
+      "label": "editor",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/executive_producer",
+      "label": "executive_producer",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/featured_film_location",
+      "label": "featured_film_location",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_art_director",
+      "label": "film_art_director",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_casting_director",
+      "label": "film_casting_director",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_casting_director_freebase_url",
+      "label": "film_casting_director_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_character",
+      "label": "film_character",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_collection",
+      "label": "film_collection",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_company",
+      "label": "film_company",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_crew_gig_film",
+      "label": "film_crew_gig_film",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_crew_gig_film_job",
+      "label": "film_crew_gig_film_job",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_crewmember",
+      "label": "film_crewmember",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_cut",
+      "label": "film_cut",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_distribution_medium",
+      "label": "film_distribution_medium",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_distributor",
+      "label": "film_distributor",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_distributor_freebase_url",
+      "label": "film_distributor_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_featured_song",
+      "label": "film_featured_song",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_featured_song_freebase_url",
+      "label": "film_featured_song_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_festival_event",
+      "label": "film_festival_event",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_festival_focus_freebase_url",
+      "label": "film_festival_focus_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_festival_sponsor_freebase_url",
+      "label": "film_festival_sponsor_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_film_company_relationship",
+      "label": "film_film_company_relationship",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_film_company_relationship_freebase_url",
+      "label": "film_film_company_relationship_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_film_distributor_relationship_freebase_url",
+      "label": "film_film_distributor_relationship_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_format",
+      "label": "film_format",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_of_distributor",
+      "label": "film_of_distributor",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_production_designer",
+      "label": "film_production_designer",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_production_designer_freebase_url",
+      "label": "film_production_designer_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_regional_release_date",
+      "label": "film_regional_release_date",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_regional_release_date_freebase_url",
+      "label": "film_regional_release_date_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_screening_venue_freebase_url",
+      "label": "film_screening_venue_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_series",
+      "label": "film_series",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_set_designer",
+      "label": "film_set_designer",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_set_designer_freebase_url",
+      "label": "film_set_designer_freebase_url",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_story_contributor",
+      "label": "film_story_contributor",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/film_subject",
+      "label": "film_subject",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/genre",
+      "label": "genre",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/language",
+      "label": "language",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/location",
+      "label": "location",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/music_contributor",
+      "label": "music_contributor",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/performance",
+      "label": "performance",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/performance_special_performance_type",
+      "label": "performance_special_performance_type",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/personal_film_appearance",
+      "label": "personal_film_appearance",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/personal_film_appearance_type",
+      "label": "personal_film_appearance_type",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/prequel",
+      "label": "prequel",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/producer",
+      "label": "producer",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/production_company",
+      "label": "production_company",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/rating",
+      "label": "rating",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/relatedBook",
+      "label": "relatedBook",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/sequel",
+      "label": "sequel",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/story_contributor",
+      "label": "story_contributor",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/movie/writer",
+      "label": "writer",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/oddlinker/link_source",
+      "label": "oddlinker/link_source",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/oddlinker/link_target",
+      "label": "oddlinker/link_target",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://data.linkedmdb.org/resource/oddlinker/linkage_run",
+      "label": "oddlinker/linkage_run",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://dbpedia.org/property/hasPhotoCollection",
+      "label": "hasPhotoCollection",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://www.w3.org/2000/01/rdf-schema#SeeAlso",
+      "label": "SeeAlso",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://www.w3.org/2002/07/owl#sameAs",
+      "label": "sameAs",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://www.w3.org/2004/02/skos/core#subject",
+      "label": "subject",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://xmlns.com/foaf/0.1/based_near",
+      "label": "based_near",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://xmlns.com/foaf/0.1/made",
+      "label": "made",
+      "type": null,
+      "domain": null,
+      "range": null
+    },
+    {
+      "uri": "http://xmlns.com/foaf/0.1/page",
+      "label": "page",
+      "type": null,
+      "domain": null,
+      "range": null
+    }
+  ]
+}

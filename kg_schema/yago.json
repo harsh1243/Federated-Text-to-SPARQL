@@ -1,0 +1,2124 @@
+{
+  "endpoint": "https://yago-knowledge.org/data/yago4/full/2020-02-24/yago-wd-schema.nt.gz",
+  "status": "ok (from YAGO 4 RDF dump)",
+  "classes": [
+    {
+      "uri": "http://schema.org/Accommodation",
+      "label": "accommodation"
+    },
+    {
+      "uri": "http://schema.org/AdministrativeArea",
+      "label": "administrative area"
+    },
+    {
+      "uri": "http://schema.org/Airline",
+      "label": "airline"
+    },
+    {
+      "uri": "http://schema.org/Airport",
+      "label": "airport"
+    },
+    {
+      "uri": "http://schema.org/AmusementPark",
+      "label": "amusement park"
+    },
+    {
+      "uri": "http://schema.org/AnatomicalStructure",
+      "label": "anatomical structure"
+    },
+    {
+      "uri": "http://schema.org/AnimalShelter",
+      "label": "animal shelter"
+    },
+    {
+      "uri": "http://schema.org/Apartment",
+      "label": "apartment"
+    },
+    {
+      "uri": "http://schema.org/Aquarium",
+      "label": "aquarium"
+    },
+    {
+      "uri": "http://schema.org/ArchiveOrganization",
+      "label": "archive organization"
+    },
+    {
+      "uri": "http://schema.org/ArtGallery",
+      "label": "art gallery"
+    },
+    {
+      "uri": "http://schema.org/Artery",
+      "label": "artery"
+    },
+    {
+      "uri": "http://schema.org/Article",
+      "label": "article"
+    },
+    {
+      "uri": "http://schema.org/Atlas",
+      "label": "atlas"
+    },
+    {
+      "uri": "http://schema.org/AudioObject",
+      "label": "audio object"
+    },
+    {
+      "uri": "http://schema.org/AutoRental",
+      "label": "auto rental"
+    },
+    {
+      "uri": "http://schema.org/AutomotiveBusiness",
+      "label": "automotive business"
+    },
+    {
+      "uri": "http://schema.org/Bakery",
+      "label": "bakery"
+    },
+    {
+      "uri": "http://schema.org/BankOrCreditUnion",
+      "label": "bank or credit union"
+    },
+    {
+      "uri": "http://schema.org/BarOrPub",
+      "label": "bar or pub"
+    },
+    {
+      "uri": "http://schema.org/Beach",
+      "label": "beach"
+    },
+    {
+      "uri": "http://schema.org/BeautySalon",
+      "label": "beauty salon"
+    },
+    {
+      "uri": "http://schema.org/BedAndBreakfast",
+      "label": "bed and breakfast"
+    },
+    {
+      "uri": "http://schema.org/Blog",
+      "label": "blog"
+    },
+    {
+      "uri": "http://schema.org/BlogPosting",
+      "label": "blog posting"
+    },
+    {
+      "uri": "http://schema.org/BloodTest",
+      "label": "blood test"
+    },
+    {
+      "uri": "http://schema.org/BodyOfWater",
+      "label": "body of water"
+    },
+    {
+      "uri": "http://schema.org/Bone",
+      "label": "bone"
+    },
+    {
+      "uri": "http://schema.org/Book",
+      "label": "book"
+    },
+    {
+      "uri": "http://schema.org/BookSeries",
+      "label": "book series"
+    },
+    {
+      "uri": "http://schema.org/BookStore",
+      "label": "book store"
+    },
+    {
+      "uri": "http://schema.org/BowlingAlley",
+      "label": "bowling alley"
+    },
+    {
+      "uri": "http://schema.org/Brand",
+      "label": "brand"
+    },
+    {
+      "uri": "http://schema.org/Brewery",
+      "label": "brewery"
+    },
+    {
+      "uri": "http://schema.org/Bridge",
+      "label": "bridge"
+    },
+    {
+      "uri": "http://schema.org/BroadcastChannel",
+      "label": "broadcast channel"
+    },
+    {
+      "uri": "http://schema.org/BroadcastService",
+      "label": "broadcast service"
+    },
+    {
+      "uri": "http://schema.org/BuddhistTemple",
+      "label": "buddhist temple"
+    },
+    {
+      "uri": "http://schema.org/BusOrCoach",
+      "label": "bus or coach"
+    },
+    {
+      "uri": "http://schema.org/BusStation",
+      "label": "bus station"
+    },
+    {
+      "uri": "http://schema.org/BusStop",
+      "label": "bus stop"
+    },
+    {
+      "uri": "http://schema.org/CafeOrCoffeeShop",
+      "label": "cafe or coffee shop"
+    },
+    {
+      "uri": "http://schema.org/Campground",
+      "label": "campground"
+    },
+    {
+      "uri": "http://schema.org/Canal",
+      "label": "canal"
+    },
+    {
+      "uri": "http://schema.org/Car",
+      "label": "car"
+    },
+    {
+      "uri": "http://schema.org/Casino",
+      "label": "casino"
+    },
+    {
+      "uri": "http://schema.org/CatholicChurch",
+      "label": "catholic church"
+    },
+    {
+      "uri": "http://schema.org/Cemetery",
+      "label": "cemetery"
+    },
+    {
+      "uri": "http://schema.org/Chapter",
+      "label": "chapter"
+    },
+    {
+      "uri": "http://schema.org/ChildCare",
+      "label": "child care"
+    },
+    {
+      "uri": "http://schema.org/Church",
+      "label": "church"
+    },
+    {
+      "uri": "http://schema.org/City",
+      "label": "city"
+    },
+    {
+      "uri": "http://schema.org/CityHall",
+      "label": "city hall"
+    },
+    {
+      "uri": "http://schema.org/CivicStructure",
+      "label": "civic structure"
+    },
+    {
+      "uri": "http://schema.org/Collection",
+      "label": "collection"
+    },
+    {
+      "uri": "http://schema.org/CollegeOrUniversity",
+      "label": "college or university"
+    },
+    {
+      "uri": "http://schema.org/ComedyClub",
+      "label": "comedy club"
+    },
+    {
+      "uri": "http://schema.org/ComicSeries",
+      "label": "comic series"
+    },
+    {
+      "uri": "http://schema.org/ComicStory",
+      "label": "comic story"
+    },
+    {
+      "uri": "http://schema.org/ComputerLanguage",
+      "label": "computer language"
+    },
+    {
+      "uri": "http://schema.org/Continent",
+      "label": "continent"
+    },
+    {
+      "uri": "http://schema.org/Corporation",
+      "label": "corporation"
+    },
+    {
+      "uri": "http://schema.org/Country",
+      "label": "country"
+    },
+    {
+      "uri": "http://schema.org/Course",
+      "label": "course"
+    },
+    {
+      "uri": "http://schema.org/Courthouse",
+      "label": "courthouse"
+    },
+    {
+      "uri": "http://schema.org/CreativeWork",
+      "label": "creative work"
+    },
+    {
+      "uri": "http://schema.org/CreativeWorkSeason",
+      "label": "creative work season"
+    },
+    {
+      "uri": "http://schema.org/CreativeWorkSeries",
+      "label": "creative work series"
+    },
+    {
+      "uri": "http://schema.org/Crematorium",
+      "label": "crematorium"
+    },
+    {
+      "uri": "http://schema.org/DanceGroup",
+      "label": "dance group"
+    },
+    {
+      "uri": "http://schema.org/DataCatalog",
+      "label": "data catalog"
+    },
+    {
+      "uri": "http://schema.org/Dataset",
+      "label": "dataset"
+    },
+    {
+      "uri": "http://schema.org/DaySpa",
+      "label": "day spa"
+    },
+    {
+      "uri": "http://schema.org/DefenceEstablishment",
+      "label": "defence establishment"
+    },
+    {
+      "uri": "http://schema.org/DiagnosticProcedure",
+      "label": "diagnostic procedure"
+    },
+    {
+      "uri": "http://schema.org/Distillery",
+      "label": "distillery"
+    },
+    {
+      "uri": "http://schema.org/Drawing",
+      "label": "drawing"
+    },
+    {
+      "uri": "http://schema.org/Drug",
+      "label": "drug"
+    },
+    {
+      "uri": "http://schema.org/DrugLegalStatus",
+      "label": "drug legal status"
+    },
+    {
+      "uri": "http://schema.org/EducationalOrganization",
+      "label": "educational organization"
+    },
+    {
+      "uri": "http://schema.org/ElementarySchool",
+      "label": "elementary school"
+    },
+    {
+      "uri": "http://schema.org/Embassy",
+      "label": "embassy"
+    },
+    {
+      "uri": "http://schema.org/EmergencyService",
+      "label": "emergency service"
+    },
+    {
+      "uri": "http://schema.org/EmploymentAgency",
+      "label": "employment agency"
+    },
+    {
+      "uri": "http://schema.org/EntertainmentBusiness",
+      "label": "entertainment business"
+    },
+    {
+      "uri": "http://schema.org/Episode",
+      "label": "episode"
+    },
+    {
+      "uri": "http://schema.org/Event",
+      "label": "event"
+    },
+    {
+      "uri": "http://schema.org/EventSeries",
+      "label": "event series"
+    },
+    {
+      "uri": "http://schema.org/EventVenue",
+      "label": "event venue"
+    },
+    {
+      "uri": "http://schema.org/Festival",
+      "label": "festival"
+    },
+    {
+      "uri": "http://schema.org/FinancialProduct",
+      "label": "financial product"
+    },
+    {
+      "uri": "http://schema.org/FinancialService",
+      "label": "financial service"
+    },
+    {
+      "uri": "http://schema.org/FireStation",
+      "label": "fire station"
+    },
+    {
+      "uri": "http://schema.org/FoodEstablishment",
+      "label": "food establishment"
+    },
+    {
+      "uri": "http://schema.org/Game",
+      "label": "game"
+    },
+    {
+      "uri": "http://schema.org/GasStation",
+      "label": "gas station"
+    },
+    {
+      "uri": "http://schema.org/GeoCoordinates",
+      "label": "geo coordinates"
+    },
+    {
+      "uri": "http://schema.org/GolfCourse",
+      "label": "golf course"
+    },
+    {
+      "uri": "http://schema.org/GovernmentBuilding",
+      "label": "government building"
+    },
+    {
+      "uri": "http://schema.org/GovernmentOffice",
+      "label": "government office"
+    },
+    {
+      "uri": "http://schema.org/GovernmentOrganization",
+      "label": "government organization"
+    },
+    {
+      "uri": "http://schema.org/GroceryStore",
+      "label": "grocery store"
+    },
+    {
+      "uri": "http://schema.org/HealthAndBeautyBusiness",
+      "label": "health and beauty business"
+    },
+    {
+      "uri": "http://schema.org/HealthClub",
+      "label": "health club"
+    },
+    {
+      "uri": "http://schema.org/HinduTemple",
+      "label": "hindu temple"
+    },
+    {
+      "uri": "http://schema.org/Hospital",
+      "label": "hospital"
+    },
+    {
+      "uri": "http://schema.org/Hostel",
+      "label": "hostel"
+    },
+    {
+      "uri": "http://schema.org/Hotel",
+      "label": "hotel"
+    },
+    {
+      "uri": "http://schema.org/House",
+      "label": "house"
+    },
+    {
+      "uri": "http://schema.org/IceCreamShop",
+      "label": "ice cream shop"
+    },
+    {
+      "uri": "http://schema.org/ImageObject",
+      "label": "image object"
+    },
+    {
+      "uri": "http://schema.org/InfectiousDisease",
+      "label": "infectious disease"
+    },
+    {
+      "uri": "http://schema.org/Joint",
+      "label": "joint"
+    },
+    {
+      "uri": "http://schema.org/LakeBodyOfWater",
+      "label": "lake body of water"
+    },
+    {
+      "uri": "http://schema.org/Landform",
+      "label": "landform"
+    },
+    {
+      "uri": "http://schema.org/LandmarksOrHistoricalBuildings",
+      "label": "landmarks or historical buildings"
+    },
+    {
+      "uri": "http://schema.org/Language",
+      "label": "language"
+    },
+    {
+      "uri": "http://schema.org/Legislation",
+      "label": "legislation"
+    },
+    {
+      "uri": "http://schema.org/Library",
+      "label": "library"
+    },
+    {
+      "uri": "http://schema.org/Ligament",
+      "label": "ligament"
+    },
+    {
+      "uri": "http://schema.org/LiquorStore",
+      "label": "liquor store"
+    },
+    {
+      "uri": "http://schema.org/LocalBusiness",
+      "label": "local business"
+    },
+    {
+      "uri": "http://schema.org/LodgingBusiness",
+      "label": "lodging business"
+    },
+    {
+      "uri": "http://schema.org/Manuscript",
+      "label": "manuscript"
+    },
+    {
+      "uri": "http://schema.org/Map",
+      "label": "map"
+    },
+    {
+      "uri": "http://schema.org/MediaObject",
+      "label": "media object"
+    },
+    {
+      "uri": "http://schema.org/MedicalBusiness",
+      "label": "medical business"
+    },
+    {
+      "uri": "http://schema.org/MedicalClinic",
+      "label": "medical clinic"
+    },
+    {
+      "uri": "http://schema.org/MedicalCondition",
+      "label": "medical condition"
+    },
+    {
+      "uri": "http://schema.org/MedicalDevice",
+      "label": "medical device"
+    },
+    {
+      "uri": "http://schema.org/MedicalEntity",
+      "label": "medical entity"
+    },
+    {
+      "uri": "http://schema.org/MedicalGuideline",
+      "label": "medical guideline"
+    },
+    {
+      "uri": "http://schema.org/MedicalOrganization",
+      "label": "medical organization"
+    },
+    {
+      "uri": "http://schema.org/MedicalProcedure",
+      "label": "medical procedure"
+    },
+    {
+      "uri": "http://schema.org/MedicalSign",
+      "label": "medical sign"
+    },
+    {
+      "uri": "http://schema.org/MedicalSignOrSymptom",
+      "label": "medical sign or symptom"
+    },
+    {
+      "uri": "http://schema.org/MedicalSpecialty",
+      "label": "medical specialty"
+    },
+    {
+      "uri": "http://schema.org/MedicalSymptom",
+      "label": "medical symptom"
+    },
+    {
+      "uri": "http://schema.org/MedicalTest",
+      "label": "medical test"
+    },
+    {
+      "uri": "http://schema.org/MedicalTherapy",
+      "label": "medical therapy"
+    },
+    {
+      "uri": "http://schema.org/MiddleSchool",
+      "label": "middle school"
+    },
+    {
+      "uri": "http://schema.org/MobileApplication",
+      "label": "mobile application"
+    },
+    {
+      "uri": "http://schema.org/Mosque",
+      "label": "mosque"
+    },
+    {
+      "uri": "http://schema.org/Motel",
+      "label": "motel"
+    },
+    {
+      "uri": "http://schema.org/Motorcycle",
+      "label": "motorcycle"
+    },
+    {
+      "uri": "http://schema.org/Mountain",
+      "label": "mountain"
+    },
+    {
+      "uri": "http://schema.org/Movie",
+      "label": "movie"
+    },
+    {
+      "uri": "http://schema.org/MovieSeries",
+      "label": "movie series"
+    },
+    {
+      "uri": "http://schema.org/MovieTheater",
+      "label": "movie theater"
+    },
+    {
+      "uri": "http://schema.org/Muscle",
+      "label": "muscle"
+    },
+    {
+      "uri": "http://schema.org/Museum",
+      "label": "museum"
+    },
+    {
+      "uri": "http://schema.org/MusicAlbum",
+      "label": "music album"
+    },
+    {
+      "uri": "http://schema.org/MusicComposition",
+      "label": "music composition"
+    },
+    {
+      "uri": "http://schema.org/MusicGroup",
+      "label": "music group"
+    },
+    {
+      "uri": "http://schema.org/MusicPlaylist",
+      "label": "music playlist"
+    },
+    {
+      "uri": "http://schema.org/MusicRelease",
+      "label": "music release"
+    },
+    {
+      "uri": "http://schema.org/MusicVenue",
+      "label": "music venue"
+    },
+    {
+      "uri": "http://schema.org/NGO",
+      "label": "n g o"
+    },
+    {
+      "uri": "http://schema.org/NailSalon",
+      "label": "nail salon"
+    },
+    {
+      "uri": "http://schema.org/Nerve",
+      "label": "nerve"
+    },
+    {
+      "uri": "http://schema.org/NewsArticle",
+      "label": "news article"
+    },
+    {
+      "uri": "http://schema.org/Newspaper",
+      "label": "newspaper"
+    },
+    {
+      "uri": "http://schema.org/NightClub",
+      "label": "night club"
+    },
+    {
+      "uri": "http://schema.org/Occupation",
+      "label": "occupation"
+    },
+    {
+      "uri": "http://schema.org/OceanBodyOfWater",
+      "label": "ocean body of water"
+    },
+    {
+      "uri": "http://schema.org/Optician",
+      "label": "optician"
+    },
+    {
+      "uri": "http://schema.org/Organization",
+      "label": "organization"
+    },
+    {
+      "uri": "http://schema.org/OutletStore",
+      "label": "outlet store"
+    },
+    {
+      "uri": "http://schema.org/Painting",
+      "label": "painting"
+    },
+    {
+      "uri": "http://schema.org/Park",
+      "label": "park"
+    },
+    {
+      "uri": "http://schema.org/ParkingFacility",
+      "label": "parking facility"
+    },
+    {
+      "uri": "http://schema.org/PawnShop",
+      "label": "pawn shop"
+    },
+    {
+      "uri": "http://schema.org/PerformingArtsTheater",
+      "label": "performing arts theater"
+    },
+    {
+      "uri": "http://schema.org/PerformingGroup",
+      "label": "performing group"
+    },
+    {
+      "uri": "http://schema.org/Periodical",
+      "label": "periodical"
+    },
+    {
+      "uri": "http://schema.org/Person",
+      "label": "person"
+    },
+    {
+      "uri": "http://schema.org/PetStore",
+      "label": "pet store"
+    },
+    {
+      "uri": "http://schema.org/Pharmacy",
+      "label": "pharmacy"
+    },
+    {
+      "uri": "http://schema.org/Photograph",
+      "label": "photograph"
+    },
+    {
+      "uri": "http://schema.org/PhysicalExam",
+      "label": "physical exam"
+    },
+    {
+      "uri": "http://schema.org/Place",
+      "label": "place"
+    },
+    {
+      "uri": "http://schema.org/PlaceOfWorship",
+      "label": "place of worship"
+    },
+    {
+      "uri": "http://schema.org/Play",
+      "label": "play"
+    },
+    {
+      "uri": "http://schema.org/Playground",
+      "label": "playground"
+    },
+    {
+      "uri": "http://schema.org/PodcastSeries",
+      "label": "podcast series"
+    },
+    {
+      "uri": "http://schema.org/PoliceStation",
+      "label": "police station"
+    },
+    {
+      "uri": "http://schema.org/Pond",
+      "label": "pond"
+    },
+    {
+      "uri": "http://schema.org/PostOffice",
+      "label": "post office"
+    },
+    {
+      "uri": "http://schema.org/Poster",
+      "label": "poster"
+    },
+    {
+      "uri": "http://schema.org/Preschool",
+      "label": "preschool"
+    },
+    {
+      "uri": "http://schema.org/Product",
+      "label": "product"
+    },
+    {
+      "uri": "http://schema.org/ProductModel",
+      "label": "product model"
+    },
+    {
+      "uri": "http://schema.org/PublicSwimmingPool",
+      "label": "public swimming pool"
+    },
+    {
+      "uri": "http://schema.org/PublicToilet",
+      "label": "public toilet"
+    },
+    {
+      "uri": "http://schema.org/PublicationIssue",
+      "label": "publication issue"
+    },
+    {
+      "uri": "http://schema.org/PublicationVolume",
+      "label": "publication volume"
+    },
+    {
+      "uri": "http://schema.org/QuantitativeValue",
+      "label": "quantitative value"
+    },
+    {
+      "uri": "http://schema.org/RadiationTherapy",
+      "label": "radiation therapy"
+    },
+    {
+      "uri": "http://schema.org/RadioChannel",
+      "label": "radio channel"
+    },
+    {
+      "uri": "http://schema.org/RadioSeries",
+      "label": "radio series"
+    },
+    {
+      "uri": "http://schema.org/RadioStation",
+      "label": "radio station"
+    },
+    {
+      "uri": "http://schema.org/Rating",
+      "label": "rating"
+    },
+    {
+      "uri": "http://schema.org/RecyclingCenter",
+      "label": "recycling center"
+    },
+    {
+      "uri": "http://schema.org/Report",
+      "label": "report"
+    },
+    {
+      "uri": "http://schema.org/Reservoir",
+      "label": "reservoir"
+    },
+    {
+      "uri": "http://schema.org/Resort",
+      "label": "resort"
+    },
+    {
+      "uri": "http://schema.org/Restaurant",
+      "label": "restaurant"
+    },
+    {
+      "uri": "http://schema.org/RiverBodyOfWater",
+      "label": "river body of water"
+    },
+    {
+      "uri": "http://schema.org/ScholarlyArticle",
+      "label": "scholarly article"
+    },
+    {
+      "uri": "http://schema.org/School",
+      "label": "school"
+    },
+    {
+      "uri": "http://schema.org/Sculpture",
+      "label": "sculpture"
+    },
+    {
+      "uri": "http://schema.org/SeaBodyOfWater",
+      "label": "sea body of water"
+    },
+    {
+      "uri": "http://schema.org/SelfStorage",
+      "label": "self storage"
+    },
+    {
+      "uri": "http://schema.org/Service",
+      "label": "service"
+    },
+    {
+      "uri": "http://schema.org/SheetMusic",
+      "label": "sheet music"
+    },
+    {
+      "uri": "http://schema.org/ShoeStore",
+      "label": "shoe store"
+    },
+    {
+      "uri": "http://schema.org/ShoppingCenter",
+      "label": "shopping center"
+    },
+    {
+      "uri": "http://schema.org/SkiResort",
+      "label": "ski resort"
+    },
+    {
+      "uri": "http://schema.org/SocialMediaPosting",
+      "label": "social media posting"
+    },
+    {
+      "uri": "http://schema.org/SoftwareApplication",
+      "label": "software application"
+    },
+    {
+      "uri": "http://schema.org/SportsActivityLocation",
+      "label": "sports activity location"
+    },
+    {
+      "uri": "http://schema.org/SportsEvent",
+      "label": "sports event"
+    },
+    {
+      "uri": "http://schema.org/SportsOrganization",
+      "label": "sports organization"
+    },
+    {
+      "uri": "http://schema.org/SportsTeam",
+      "label": "sports team"
+    },
+    {
+      "uri": "http://schema.org/StadiumOrArena",
+      "label": "stadium or arena"
+    },
+    {
+      "uri": "http://schema.org/State",
+      "label": "state"
+    },
+    {
+      "uri": "http://schema.org/Store",
+      "label": "store"
+    },
+    {
+      "uri": "http://schema.org/Substance",
+      "label": "substance"
+    },
+    {
+      "uri": "http://schema.org/SubwayStation",
+      "label": "subway station"
+    },
+    {
+      "uri": "http://schema.org/SurgicalProcedure",
+      "label": "surgical procedure"
+    },
+    {
+      "uri": "http://schema.org/Synagogue",
+      "label": "synagogue"
+    },
+    {
+      "uri": "http://schema.org/TVEpisode",
+      "label": "t v episode"
+    },
+    {
+      "uri": "http://schema.org/TVSeason",
+      "label": "t v season"
+    },
+    {
+      "uri": "http://schema.org/TVSeries",
+      "label": "t v series"
+    },
+    {
+      "uri": "http://schema.org/TattooParlor",
+      "label": "tattoo parlor"
+    },
+    {
+      "uri": "http://schema.org/TelevisionChannel",
+      "label": "television channel"
+    },
+    {
+      "uri": "http://schema.org/TelevisionStation",
+      "label": "television station"
+    },
+    {
+      "uri": "http://schema.org/TennisComplex",
+      "label": "tennis complex"
+    },
+    {
+      "uri": "http://schema.org/TheaterGroup",
+      "label": "theater group"
+    },
+    {
+      "uri": "http://schema.org/TherapeuticProcedure",
+      "label": "therapeutic procedure"
+    },
+    {
+      "uri": "http://schema.org/Thesis",
+      "label": "thesis"
+    },
+    {
+      "uri": "http://schema.org/Thing",
+      "label": "thing"
+    },
+    {
+      "uri": "http://schema.org/TouristAttraction",
+      "label": "tourist attraction"
+    },
+    {
+      "uri": "http://schema.org/TouristInformationCenter",
+      "label": "tourist information center"
+    },
+    {
+      "uri": "http://schema.org/ToyStore",
+      "label": "toy store"
+    },
+    {
+      "uri": "http://schema.org/TrainStation",
+      "label": "train station"
+    },
+    {
+      "uri": "http://schema.org/TravelAgency",
+      "label": "travel agency"
+    },
+    {
+      "uri": "http://schema.org/Vehicle",
+      "label": "vehicle"
+    },
+    {
+      "uri": "http://schema.org/Vein",
+      "label": "vein"
+    },
+    {
+      "uri": "http://schema.org/VideoGame",
+      "label": "video game"
+    },
+    {
+      "uri": "http://schema.org/VideoGameSeries",
+      "label": "video game series"
+    },
+    {
+      "uri": "http://schema.org/VideoObject",
+      "label": "video object"
+    },
+    {
+      "uri": "http://schema.org/VisualArtwork",
+      "label": "visual artwork"
+    },
+    {
+      "uri": "http://schema.org/Volcano",
+      "label": "volcano"
+    },
+    {
+      "uri": "http://schema.org/Waterfall",
+      "label": "waterfall"
+    },
+    {
+      "uri": "http://schema.org/WebPage",
+      "label": "web page"
+    },
+    {
+      "uri": "http://schema.org/WebSite",
+      "label": "web site"
+    },
+    {
+      "uri": "http://schema.org/Winery",
+      "label": "winery"
+    },
+    {
+      "uri": "http://schema.org/WorkersUnion",
+      "label": "workers union"
+    },
+    {
+      "uri": "http://schema.org/Zoo",
+      "label": "zoo"
+    },
+    {
+      "uri": "http://schema.org/about",
+      "label": "about"
+    },
+    {
+      "uri": "http://schema.org/actor",
+      "label": "actor"
+    },
+    {
+      "uri": "http://schema.org/affiliation",
+      "label": "affiliation"
+    },
+    {
+      "uri": "http://schema.org/alternateName",
+      "label": "alternate name"
+    },
+    {
+      "uri": "http://schema.org/alumniOf",
+      "label": "alumni of"
+    },
+    {
+      "uri": "http://schema.org/author",
+      "label": "author"
+    },
+    {
+      "uri": "http://schema.org/award",
+      "label": "award"
+    },
+    {
+      "uri": "http://schema.org/birthDate",
+      "label": "birth date"
+    },
+    {
+      "uri": "http://schema.org/birthPlace",
+      "label": "birth place"
+    },
+    {
+      "uri": "http://schema.org/brand",
+      "label": "brand"
+    },
+    {
+      "uri": "http://schema.org/broadcastChannelId",
+      "label": "broadcast channel id"
+    },
+    {
+      "uri": "http://schema.org/byArtist",
+      "label": "by artist"
+    },
+    {
+      "uri": "http://schema.org/callSign",
+      "label": "call sign"
+    },
+    {
+      "uri": "http://schema.org/character",
+      "label": "character"
+    },
+    {
+      "uri": "http://schema.org/children",
+      "label": "children"
+    },
+    {
+      "uri": "http://schema.org/citation",
+      "label": "citation"
+    },
+    {
+      "uri": "http://schema.org/colorist",
+      "label": "colorist"
+    },
+    {
+      "uri": "http://schema.org/competitor",
+      "label": "competitor"
+    },
+    {
+      "uri": "http://schema.org/composer",
+      "label": "composer"
+    },
+    {
+      "uri": "http://schema.org/connectedTo",
+      "label": "connected to"
+    },
+    {
+      "uri": "http://schema.org/containedInPlace",
+      "label": "contained in place"
+    },
+    {
+      "uri": "http://schema.org/containsPlace",
+      "label": "contains place"
+    },
+    {
+      "uri": "http://schema.org/contentLocation",
+      "label": "content location"
+    },
+    {
+      "uri": "http://schema.org/contentRating",
+      "label": "content rating"
+    },
+    {
+      "uri": "http://schema.org/contributor",
+      "label": "contributor"
+    },
+    {
+      "uri": "http://schema.org/copyrightHolder",
+      "label": "copyright holder"
+    },
+    {
+      "uri": "http://schema.org/countryOfOrigin",
+      "label": "country of origin"
+    },
+    {
+      "uri": "http://schema.org/creator",
+      "label": "creator"
+    },
+    {
+      "uri": "http://schema.org/dateCreated",
+      "label": "date created"
+    },
+    {
+      "uri": "http://schema.org/datePublished",
+      "label": "date published"
+    },
+    {
+      "uri": "http://schema.org/deathDate",
+      "label": "death date"
+    },
+    {
+      "uri": "http://schema.org/deathPlace",
+      "label": "death place"
+    },
+    {
+      "uri": "http://schema.org/depth",
+      "label": "depth"
+    },
+    {
+      "uri": "http://schema.org/director",
+      "label": "director"
+    },
+    {
+      "uri": "http://schema.org/dissolutionDate",
+      "label": "dissolution date"
+    },
+    {
+      "uri": "http://schema.org/duns",
+      "label": "duns"
+    },
+    {
+      "uri": "http://schema.org/duration",
+      "label": "duration"
+    },
+    {
+      "uri": "http://schema.org/editor",
+      "label": "editor"
+    },
+    {
+      "uri": "http://schema.org/elevation",
+      "label": "elevation"
+    },
+    {
+      "uri": "http://schema.org/encodingFormat",
+      "label": "encoding format"
+    },
+    {
+      "uri": "http://schema.org/endDate",
+      "label": "end date"
+    },
+    {
+      "uri": "http://schema.org/exampleOfWork",
+      "label": "example of work"
+    },
+    {
+      "uri": "http://schema.org/familyName",
+      "label": "family name"
+    },
+    {
+      "uri": "http://schema.org/faxNumber",
+      "label": "fax number"
+    },
+    {
+      "uri": "http://schema.org/founder",
+      "label": "founder"
+    },
+    {
+      "uri": "http://schema.org/foundingDate",
+      "label": "founding date"
+    },
+    {
+      "uri": "http://schema.org/foundingLocation",
+      "label": "founding location"
+    },
+    {
+      "uri": "http://schema.org/gender",
+      "label": "gender"
+    },
+    {
+      "uri": "http://schema.org/genre",
+      "label": "genre"
+    },
+    {
+      "uri": "http://schema.org/geo",
+      "label": "geo"
+    },
+    {
+      "uri": "http://schema.org/givenName",
+      "label": "given name"
+    },
+    {
+      "uri": "http://schema.org/gtin",
+      "label": "gtin"
+    },
+    {
+      "uri": "http://schema.org/hasOccupation",
+      "label": "has occupation"
+    },
+    {
+      "uri": "http://schema.org/hasPart",
+      "label": "has part"
+    },
+    {
+      "uri": "http://schema.org/height",
+      "label": "height"
+    },
+    {
+      "uri": "http://schema.org/homeLocation",
+      "label": "home location"
+    },
+    {
+      "uri": "http://schema.org/honorificPrefix",
+      "label": "honorific prefix"
+    },
+    {
+      "uri": "http://schema.org/iataCode",
+      "label": "iata code"
+    },
+    {
+      "uri": "http://schema.org/icaoCode",
+      "label": "icao code"
+    },
+    {
+      "uri": "http://schema.org/illustrator",
+      "label": "illustrator"
+    },
+    {
+      "uri": "http://schema.org/image",
+      "label": "image"
+    },
+    {
+      "uri": "http://schema.org/inLanguage",
+      "label": "in language"
+    },
+    {
+      "uri": "http://schema.org/isBasedOn",
+      "label": "is based on"
+    },
+    {
+      "uri": "http://schema.org/isPartOf",
+      "label": "is part of"
+    },
+    {
+      "uri": "http://schema.org/isbn",
+      "label": "isbn"
+    },
+    {
+      "uri": "http://schema.org/issn",
+      "label": "issn"
+    },
+    {
+      "uri": "http://schema.org/issueNumber",
+      "label": "issue number"
+    },
+    {
+      "uri": "http://schema.org/iswcCode",
+      "label": "iswc code"
+    },
+    {
+      "uri": "http://schema.org/knowsLanguage",
+      "label": "knows language"
+    },
+    {
+      "uri": "http://schema.org/latitude",
+      "label": "latitude"
+    },
+    {
+      "uri": "http://schema.org/legalStatus",
+      "label": "legal status"
+    },
+    {
+      "uri": "http://schema.org/leiCode",
+      "label": "lei code"
+    },
+    {
+      "uri": "http://schema.org/license",
+      "label": "license"
+    },
+    {
+      "uri": "http://schema.org/location",
+      "label": "location"
+    },
+    {
+      "uri": "http://schema.org/locationCreated",
+      "label": "location created"
+    },
+    {
+      "uri": "http://schema.org/logo",
+      "label": "logo"
+    },
+    {
+      "uri": "http://schema.org/longitude",
+      "label": "longitude"
+    },
+    {
+      "uri": "http://schema.org/lyricist",
+      "label": "lyricist"
+    },
+    {
+      "uri": "http://schema.org/material",
+      "label": "material"
+    },
+    {
+      "uri": "http://schema.org/maxValue",
+      "label": "max value"
+    },
+    {
+      "uri": "http://schema.org/memberOf",
+      "label": "member of"
+    },
+    {
+      "uri": "http://schema.org/minValue",
+      "label": "min value"
+    },
+    {
+      "uri": "http://schema.org/musicBy",
+      "label": "music by"
+    },
+    {
+      "uri": "http://schema.org/musicReleaseFormat",
+      "label": "music release format"
+    },
+    {
+      "uri": "http://schema.org/nationality",
+      "label": "nationality"
+    },
+    {
+      "uri": "http://schema.org/netWorth",
+      "label": "net worth"
+    },
+    {
+      "uri": "http://schema.org/numberOfEmployees",
+      "label": "number of employees"
+    },
+    {
+      "uri": "http://schema.org/numberOfEpisodes",
+      "label": "number of episodes"
+    },
+    {
+      "uri": "http://schema.org/numberOfPages",
+      "label": "number of pages"
+    },
+    {
+      "uri": "http://schema.org/numberOfSeasons",
+      "label": "number of seasons"
+    },
+    {
+      "uri": "http://schema.org/operatingSystem",
+      "label": "operating system"
+    },
+    {
+      "uri": "http://schema.org/organizer",
+      "label": "organizer"
+    },
+    {
+      "uri": "http://schema.org/owns",
+      "label": "owns"
+    },
+    {
+      "uri": "http://schema.org/pagination",
+      "label": "pagination"
+    },
+    {
+      "uri": "http://schema.org/parent",
+      "label": "parent"
+    },
+    {
+      "uri": "http://schema.org/parentOrganization",
+      "label": "parent organization"
+    },
+    {
+      "uri": "http://schema.org/partOfSeason",
+      "label": "part of season"
+    },
+    {
+      "uri": "http://schema.org/partOfSeries",
+      "label": "part of series"
+    },
+    {
+      "uri": "http://schema.org/position",
+      "label": "position"
+    },
+    {
+      "uri": "http://schema.org/possibleTreatment",
+      "label": "possible treatment"
+    },
+    {
+      "uri": "http://schema.org/producer",
+      "label": "producer"
+    },
+    {
+      "uri": "http://schema.org/productionCompany",
+      "label": "production company"
+    },
+    {
+      "uri": "http://schema.org/provider",
+      "label": "provider"
+    },
+    {
+      "uri": "http://schema.org/publisher",
+      "label": "publisher"
+    },
+    {
+      "uri": "http://schema.org/recordLabel",
+      "label": "record label"
+    },
+    {
+      "uri": "http://schema.org/releaseOf",
+      "label": "release of"
+    },
+    {
+      "uri": "http://schema.org/relevantSpecialty",
+      "label": "relevant specialty"
+    },
+    {
+      "uri": "http://schema.org/riskFactor",
+      "label": "risk factor"
+    },
+    {
+      "uri": "http://schema.org/sameAs",
+      "label": "same as"
+    },
+    {
+      "uri": "http://schema.org/servesCuisine",
+      "label": "serves cuisine"
+    },
+    {
+      "uri": "http://schema.org/signOrSymptom",
+      "label": "sign or symptom"
+    },
+    {
+      "uri": "http://schema.org/sponsor",
+      "label": "sponsor"
+    },
+    {
+      "uri": "http://schema.org/sport",
+      "label": "sport"
+    },
+    {
+      "uri": "http://schema.org/spouse",
+      "label": "spouse"
+    },
+    {
+      "uri": "http://schema.org/startDate",
+      "label": "start date"
+    },
+    {
+      "uri": "http://schema.org/subEvent",
+      "label": "sub event"
+    },
+    {
+      "uri": "http://schema.org/subOrganization",
+      "label": "sub organization"
+    },
+    {
+      "uri": "http://schema.org/superEvent",
+      "label": "super event"
+    },
+    {
+      "uri": "http://schema.org/telephone",
+      "label": "telephone"
+    },
+    {
+      "uri": "http://schema.org/translator",
+      "label": "translator"
+    },
+    {
+      "uri": "http://schema.org/unitCode",
+      "label": "unit code"
+    },
+    {
+      "uri": "http://schema.org/url",
+      "label": "url"
+    },
+    {
+      "uri": "http://schema.org/value",
+      "label": "value"
+    },
+    {
+      "uri": "http://schema.org/volumeNumber",
+      "label": "volume number"
+    },
+    {
+      "uri": "http://schema.org/weight",
+      "label": "weight"
+    },
+    {
+      "uri": "http://schema.org/width",
+      "label": "width"
+    },
+    {
+      "uri": "http://schema.org/workExample",
+      "label": "work example"
+    },
+    {
+      "uri": "http://schema.org/worksFor",
+      "label": "works for"
+    }
+  ],
+  "properties": [
+    {
+      "uri": "http://bioschemas.org/bioChemInteraction",
+      "label": "bioChemInteraction"
+    },
+    {
+      "uri": "http://bioschemas.org/encodesBioChemEntity",
+      "label": "encodesBioChemEntity"
+    },
+    {
+      "uri": "http://bioschemas.org/expressedIn",
+      "label": "expressedIn"
+    },
+    {
+      "uri": "http://bioschemas.org/hasMolecularFunction",
+      "label": "hasMolecularFunction"
+    },
+    {
+      "uri": "http://bioschemas.org/inChI",
+      "label": "inChI"
+    },
+    {
+      "uri": "http://bioschemas.org/inChIKey",
+      "label": "inChIKey"
+    },
+    {
+      "uri": "http://bioschemas.org/isEncodedByBioChemEntity",
+      "label": "isEncodedByBioChemEntity"
+    },
+    {
+      "uri": "http://bioschemas.org/isInvolvedInBiologicalProcess",
+      "label": "isInvolvedInBiologicalProcess"
+    },
+    {
+      "uri": "http://bioschemas.org/isLocatedInSubcellularLocation",
+      "label": "isLocatedInSubcellularLocation"
+    },
+    {
+      "uri": "http://bioschemas.org/molecularFormula",
+      "label": "molecularFormula"
+    },
+    {
+      "uri": "http://bioschemas.org/parentTaxon",
+      "label": "parentTaxon"
+    },
+    {
+      "uri": "http://bioschemas.org/smiles",
+      "label": "smiles"
+    },
+    {
+      "uri": "http://bioschemas.org/taxonRank",
+      "label": "taxonRank"
+    },
+    {
+      "uri": "http://schema.org/about",
+      "label": "about"
+    },
+    {
+      "uri": "http://schema.org/actor",
+      "label": "actor"
+    },
+    {
+      "uri": "http://schema.org/affiliation",
+      "label": "affiliation"
+    },
+    {
+      "uri": "http://schema.org/alternateName",
+      "label": "alternateName"
+    },
+    {
+      "uri": "http://schema.org/alumniOf",
+      "label": "alumniOf"
+    },
+    {
+      "uri": "http://schema.org/author",
+      "label": "author"
+    },
+    {
+      "uri": "http://schema.org/award",
+      "label": "award"
+    },
+    {
+      "uri": "http://schema.org/birthDate",
+      "label": "birthDate"
+    },
+    {
+      "uri": "http://schema.org/birthPlace",
+      "label": "birthPlace"
+    },
+    {
+      "uri": "http://schema.org/brand",
+      "label": "brand"
+    },
+    {
+      "uri": "http://schema.org/broadcastChannelId",
+      "label": "broadcastChannelId"
+    },
+    {
+      "uri": "http://schema.org/byArtist",
+      "label": "byArtist"
+    },
+    {
+      "uri": "http://schema.org/callSign",
+      "label": "call sign"
+    },
+    {
+      "uri": "http://schema.org/character",
+      "label": "character"
+    },
+    {
+      "uri": "http://schema.org/children",
+      "label": "children"
+    },
+    {
+      "uri": "http://schema.org/citation",
+      "label": "citation"
+    },
+    {
+      "uri": "http://schema.org/colorist",
+      "label": "colorist"
+    },
+    {
+      "uri": "http://schema.org/competitor",
+      "label": "competitor"
+    },
+    {
+      "uri": "http://schema.org/composer",
+      "label": "composer"
+    },
+    {
+      "uri": "http://schema.org/connectedTo",
+      "label": "connectedTo"
+    },
+    {
+      "uri": "http://schema.org/containedInPlace",
+      "label": "containedInPlace"
+    },
+    {
+      "uri": "http://schema.org/containsPlace",
+      "label": "containsPlace"
+    },
+    {
+      "uri": "http://schema.org/contentLocation",
+      "label": "contentLocation"
+    },
+    {
+      "uri": "http://schema.org/contentRating",
+      "label": "contentRating"
+    },
+    {
+      "uri": "http://schema.org/contributor",
+      "label": "contributor"
+    },
+    {
+      "uri": "http://schema.org/copyrightHolder",
+      "label": "copyrightHolder"
+    },
+    {
+      "uri": "http://schema.org/countryOfOrigin",
+      "label": "country of origin"
+    },
+    {
+      "uri": "http://schema.org/creator",
+      "label": "creator"
+    },
+    {
+      "uri": "http://schema.org/dateCreated",
+      "label": "dateCreated"
+    },
+    {
+      "uri": "http://schema.org/datePublished",
+      "label": "datePublished"
+    },
+    {
+      "uri": "http://schema.org/deathDate",
+      "label": "deathDate"
+    },
+    {
+      "uri": "http://schema.org/deathPlace",
+      "label": "deathPlace"
+    },
+    {
+      "uri": "http://schema.org/depth",
+      "label": "depth"
+    },
+    {
+      "uri": "http://schema.org/director",
+      "label": "director"
+    },
+    {
+      "uri": "http://schema.org/dissolutionDate",
+      "label": "dissolutionDate"
+    },
+    {
+      "uri": "http://schema.org/duns",
+      "label": "duns"
+    },
+    {
+      "uri": "http://schema.org/duration",
+      "label": "duration"
+    },
+    {
+      "uri": "http://schema.org/editor",
+      "label": "editor"
+    },
+    {
+      "uri": "http://schema.org/elevation",
+      "label": "elevation"
+    },
+    {
+      "uri": "http://schema.org/encodingFormat",
+      "label": "encodingFormat"
+    },
+    {
+      "uri": "http://schema.org/endDate",
+      "label": "endDate"
+    },
+    {
+      "uri": "http://schema.org/exampleOfWork",
+      "label": "exampleOfWork"
+    },
+    {
+      "uri": "http://schema.org/familyName",
+      "label": "familyName"
+    },
+    {
+      "uri": "http://schema.org/faxNumber",
+      "label": "fax number"
+    },
+    {
+      "uri": "http://schema.org/founder",
+      "label": "founder"
+    },
+    {
+      "uri": "http://schema.org/foundingDate",
+      "label": "foundingDate"
+    },
+    {
+      "uri": "http://schema.org/foundingLocation",
+      "label": "foundingLocation"
+    },
+    {
+      "uri": "http://schema.org/gender",
+      "label": "gender"
+    },
+    {
+      "uri": "http://schema.org/genre",
+      "label": "genre"
+    },
+    {
+      "uri": "http://schema.org/geo",
+      "label": "geo"
+    },
+    {
+      "uri": "http://schema.org/givenName",
+      "label": "givenName"
+    },
+    {
+      "uri": "http://schema.org/gtin",
+      "label": "gtin"
+    },
+    {
+      "uri": "http://schema.org/hasOccupation",
+      "label": "hasOccupation"
+    },
+    {
+      "uri": "http://schema.org/hasPart",
+      "label": "hasPart"
+    },
+    {
+      "uri": "http://schema.org/height",
+      "label": "height"
+    },
+    {
+      "uri": "http://schema.org/homeLocation",
+      "label": "homeLocation"
+    },
+    {
+      "uri": "http://schema.org/honorificPrefix",
+      "label": "honorificPrefix"
+    },
+    {
+      "uri": "http://schema.org/iataCode",
+      "label": "iata code"
+    },
+    {
+      "uri": "http://schema.org/icaoCode",
+      "label": "icao code"
+    },
+    {
+      "uri": "http://schema.org/illustrator",
+      "label": "illustrator"
+    },
+    {
+      "uri": "http://schema.org/image",
+      "label": "image"
+    },
+    {
+      "uri": "http://schema.org/inLanguage",
+      "label": "inLanguage"
+    },
+    {
+      "uri": "http://schema.org/isBasedOn",
+      "label": "isBasedOn"
+    },
+    {
+      "uri": "http://schema.org/isPartOf",
+      "label": "isPartOf"
+    },
+    {
+      "uri": "http://schema.org/isbn",
+      "label": "isbn"
+    },
+    {
+      "uri": "http://schema.org/issn",
+      "label": "issn"
+    },
+    {
+      "uri": "http://schema.org/issueNumber",
+      "label": "issueNumber"
+    },
+    {
+      "uri": "http://schema.org/iswcCode",
+      "label": "iswcCode"
+    },
+    {
+      "uri": "http://schema.org/knowsLanguage",
+      "label": "knows language"
+    },
+    {
+      "uri": "http://schema.org/latitude",
+      "label": "latitude"
+    },
+    {
+      "uri": "http://schema.org/legalStatus",
+      "label": "legalStatus"
+    },
+    {
+      "uri": "http://schema.org/leiCode",
+      "label": "leiCode"
+    },
+    {
+      "uri": "http://schema.org/license",
+      "label": "license"
+    },
+    {
+      "uri": "http://schema.org/location",
+      "label": "location"
+    },
+    {
+      "uri": "http://schema.org/locationCreated",
+      "label": "locationCreated"
+    },
+    {
+      "uri": "http://schema.org/logo",
+      "label": "logo"
+    },
+    {
+      "uri": "http://schema.org/longitude",
+      "label": "longitude"
+    },
+    {
+      "uri": "http://schema.org/lyricist",
+      "label": "lyricist"
+    },
+    {
+      "uri": "http://schema.org/material",
+      "label": "material"
+    },
+    {
+      "uri": "http://schema.org/maxValue",
+      "label": "maxValue"
+    },
+    {
+      "uri": "http://schema.org/memberOf",
+      "label": "member of"
+    },
+    {
+      "uri": "http://schema.org/minValue",
+      "label": "minValue"
+    },
+    {
+      "uri": "http://schema.org/musicBy",
+      "label": "music by"
+    },
+    {
+      "uri": "http://schema.org/musicReleaseFormat",
+      "label": "musicReleaseFormat"
+    },
+    {
+      "uri": "http://schema.org/nationality",
+      "label": "nationality"
+    },
+    {
+      "uri": "http://schema.org/netWorth",
+      "label": "netWorth"
+    },
+    {
+      "uri": "http://schema.org/numberOfEmployees",
+      "label": "numberOfEmployees"
+    },
+    {
+      "uri": "http://schema.org/numberOfEpisodes",
+      "label": "number of episodes"
+    },
+    {
+      "uri": "http://schema.org/numberOfPages",
+      "label": "numberOfPages"
+    },
+    {
+      "uri": "http://schema.org/numberOfSeasons",
+      "label": "number of seasons"
+    },
+    {
+      "uri": "http://schema.org/operatingSystem",
+      "label": "operatingSystem"
+    },
+    {
+      "uri": "http://schema.org/organizer",
+      "label": "organizer"
+    },
+    {
+      "uri": "http://schema.org/owns",
+      "label": "owns"
+    },
+    {
+      "uri": "http://schema.org/pagination",
+      "label": "pagination"
+    },
+    {
+      "uri": "http://schema.org/parent",
+      "label": "parent"
+    },
+    {
+      "uri": "http://schema.org/parentOrganization",
+      "label": "parentOrganization"
+    },
+    {
+      "uri": "http://schema.org/partOfSeason",
+      "label": "partOfSeason"
+    },
+    {
+      "uri": "http://schema.org/partOfSeries",
+      "label": "part of series"
+    },
+    {
+      "uri": "http://schema.org/position",
+      "label": "position"
+    },
+    {
+      "uri": "http://schema.org/possibleTreatment",
+      "label": "possible treatment"
+    },
+    {
+      "uri": "http://schema.org/producer",
+      "label": "producer"
+    },
+    {
+      "uri": "http://schema.org/productionCompany",
+      "label": "production company"
+    },
+    {
+      "uri": "http://schema.org/provider",
+      "label": "provider"
+    },
+    {
+      "uri": "http://schema.org/publisher",
+      "label": "publisher"
+    },
+    {
+      "uri": "http://schema.org/recordLabel",
+      "label": "recordLabel"
+    },
+    {
+      "uri": "http://schema.org/releaseOf",
+      "label": "releaseOf"
+    },
+    {
+      "uri": "http://schema.org/relevantSpecialty",
+      "label": "relevantSpecialty"
+    },
+    {
+      "uri": "http://schema.org/riskFactor",
+      "label": "riskFactor"
+    },
+    {
+      "uri": "http://schema.org/sameAs",
+      "label": "sameAs"
+    },
+    {
+      "uri": "http://schema.org/servesCuisine",
+      "label": "servesCuisine"
+    },
+    {
+      "uri": "http://schema.org/signOrSymptom",
+      "label": "signOrSymptom"
+    },
+    {
+      "uri": "http://schema.org/sponsor",
+      "label": "sponsor"
+    },
+    {
+      "uri": "http://schema.org/sport",
+      "label": "sport"
+    },
+    {
+      "uri": "http://schema.org/spouse",
+      "label": "spouse"
+    },
+    {
+      "uri": "http://schema.org/startDate",
+      "label": "startDate"
+    },
+    {
+      "uri": "http://schema.org/subEvent",
+      "label": "subEvent"
+    },
+    {
+      "uri": "http://schema.org/subOrganization",
+      "label": "subOrganization"
+    },
+    {
+      "uri": "http://schema.org/superEvent",
+      "label": "superEvent"
+    },
+    {
+      "uri": "http://schema.org/telephone",
+      "label": "telephone"
+    },
+    {
+      "uri": "http://schema.org/translator",
+      "label": "translator"
+    },
+    {
+      "uri": "http://schema.org/unitCode",
+      "label": "unitCode"
+    },
+    {
+      "uri": "http://schema.org/url",
+      "label": "url"
+    },
+    {
+      "uri": "http://schema.org/value",
+      "label": "value"
+    },
+    {
+      "uri": "http://schema.org/volumeNumber",
+      "label": "volumeNumber"
+    },
+    {
+      "uri": "http://schema.org/weight",
+      "label": "weight"
+    },
+    {
+      "uri": "http://schema.org/width",
+      "label": "width"
+    },
+    {
+      "uri": "http://schema.org/workExample",
+      "label": "workExample"
+    },
+    {
+      "uri": "http://schema.org/worksFor",
+      "label": "worksFor"
+    }
+  ]
+}
