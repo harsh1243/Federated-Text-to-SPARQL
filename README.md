@@ -1,1 +1,0 @@
-# Federated-Text-to-SPARQL
