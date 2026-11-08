@@ -1,0 +1,18 @@
+# Runtime dependencies for OELP.
+#
+# Pinned to the versions this project was built and measured on.  The
+# huggingface-hub pin is REQUIRED, not cosmetic: transformers 5.5.4 needs
+# huggingface-hub>=1.5.0,<2.0, and a plain `pip install huggingface-hub`
+# pulls 2.x and breaks `import sentence_transformers`.
+#
+# torch is CPU-only here -- MiniLM runs on CPU and the entity index is
+# memory-mapped because the machine has 8 GB of RAM and no GPU.
+
+numpy==2.4.6
+scipy==1.15.3
+torch==2.12.0
+transformers==5.5.4
+huggingface-hub==1.33.0
+sentence-transformers==5.4.0
+bm25s==0.3.16
+anthropic==0.86.0

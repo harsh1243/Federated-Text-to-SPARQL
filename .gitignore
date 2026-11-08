@@ -1,0 +1,50 @@
+# The runtime data this code needs is NOT in this repository.  It is large,
+# and it is derived from three third-party dumps that cannot be
+# redistributed.  See the "Data this code needs at runtime" section of
+# README.md for the manifest and for how each artefact is produced.
+
+# entity index -- 629 MB unpacked (BM25 over 4,468,704 entity labels)
+_entity_bm25/
+kg_entities_bm25.zip
+
+# triple-existence index -- 639 MB
+_triple_index/
+
+# property + class embedding index -- 6.8 MB
+kg_embeddings_class.zip
+
+# the sameAs join surface -- 12 MB
+sameas_joins.json
+
+# constraint-layer side tables and the category hub
+_bridge_graph.json
+_predicate_ranges.json
+_class_predicates.json
+
+# the harvested query neighbourhood
+_nbhd.json
+_nbhd_labels.json
+
+# the benchmark and the frozen LLM-A output
+benchmark_50.json
+_llm_a_runs.json
+_llm_a_live_*.json
+_llm_a_descriptions.json
+
+# outputs
+_end_to_end.json
+_final_queries.json
+_bench_*.json
+_sweep_topk.json
+_determinism_probe.json
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
